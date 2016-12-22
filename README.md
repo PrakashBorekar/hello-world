@@ -1,3 +1,3 @@
 # hello-world
 this is test repository
-This is my first edit
+This is my first edit. GitHub is good.
